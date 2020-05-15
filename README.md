@@ -1,7 +1,7 @@
 # MARN-GamingStore
 
-Este é um modelo de web site para amostra/vitrine de jogos.
-Primeiro contato ao ReactJS com intuito de estudo. ( Desenvolvimento Web Frontend )
+- Este é um modelo de web site para amostra/vitrine de jogos.
+- Primeiro contato ao ReactJS com intuito de estudo. ( Desenvolvimento Web Frontend )
 
 ## Tecnologias usadas
 
