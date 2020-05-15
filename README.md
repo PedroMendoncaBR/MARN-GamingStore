@@ -1,7 +1,7 @@
 # MARN-GamingStore
-Projeto focado para estudo FRONTEND
+Primeiro contato com reactjs com intuito de estudo Desenvolvimento Web Frontend
 
-##Rodando a aplicação
+## Rodando a aplicação
 - 'npm install' no terminal para dependências.
 - Logo após rodar com 'npm start'.
 
