@@ -1,2 +1,10 @@
 # MARN-GamingStore
-Projeto FRONTEND desenvolvido com ReactJS e Javascript
+Projeto focado para estudo FRONTEND
+
+##Rodando a aplicação
+- 'npm install' no terminal para dependências.
+- Logo após rodar com 'npm start'.
+
+## Tecnologias usadas
+- ReactJS
+- Javascript
