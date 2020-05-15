@@ -1,0 +1,590 @@
+@media(min-width: 2560px) {
+  body {
+    overflow-x: hidden;
+  }
+  /* HEADER */
+  header {
+    height: 150px;
+  }
+  div.opacity {
+    height: 150px;
+  }
+  div.logo {
+    width: 300px;
+    height: 120px;
+    background-size: 300px;
+  }
+  button.headerbtn {
+    width: 200px;
+    height: 150px;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+    font-size: 25px;
+  }
+  button.headerbtn1 {
+    width: 300px;
+    height: 150px;
+    margin-right: 15px;
+    margin-left: 15px;
+    
+    font-size: 25px;
+  }
+  button.brregionbtn {
+    width: 80px;
+    height: 150px;
+    background-size: 60px;
+  }
+  button.usaregionbtn {
+    width: 80px;
+    height: 150px;
+    background-size: 60px;
+  }
+
+  /* DIV LOGO */
+  section.bgmain0 {
+    height: 1000px;
+    background-size: 1500px;
+  }
+  /* SOCIAL MEDIA */
+  div.socialmedia {
+    height: 500px;
+  }
+  button.face {
+    width: 100px;
+    height: 100px;
+    background-size: 30px;
+  }
+  button.youtube {
+    width: 100px;
+    height: 100px;
+    background-size: 60px;
+  }
+  button.linkedin {
+    width: 100px;
+    height: 100px;
+    background-size: 50px;
+  }
+  /* GAMES DISPLAY */
+  div.gamesdisplay {
+    height: 200px;
+  }
+  div.display {
+    width: 200px;
+    height: 200px;
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+  button.indisplay {
+    width: 160px;
+    height: 160px;
+    background-size: 85px;
+  }
+
+  /* ABOUT US */
+  section.bgaboutus {
+    height: 1250px;
+  }
+  div.divspanaboutus {
+    height: 400px;
+    background-size: 400px;
+    background-position-x: 1900px;
+    background-position-y: 70px;
+  }
+  span.aboutus {
+    margin-left: 250px;
+    font-size: 90px;
+  }
+  div.aboutusinfo {
+    height: 800px;
+  }
+  div.aboutusinfo1 {
+    width: 700px;
+    height: 500px;
+    margin-right: 130px;
+  }
+  div.aboutusinfo2 {
+    width: 900px;
+    height: 800px;
+    margin-top: 90px;
+    margin-bottom: 50px;
+    margin-left: 130px;
+  }
+  div.aboutuslogo {
+    width: 550px;
+    height: 250px;
+    background-size: 550px;
+  }
+  div.imageinfo1 {
+    width: 200px;
+    height: 200px;
+    background-size: 190px;
+  }
+  div.imageinfo2 {
+    width: 200px;
+    height: 200px;
+    background-size: 190px;
+  }
+  div.divaboutsinfo2 {
+    width: 800px;
+    height: 400px;
+  }
+  p.earthinfo {
+    font-size: 28px;
+  }
+
+  /* PRODUTOS */
+  section.divloja {
+    height: 3905px;
+  }  
+  div.bgloja {
+    height: 400px;
+    background-size: 350px;
+    background-position-x: 1950px;
+    background-position-y: 60px;
+  }
+  div.divothersproducts {
+    width: 100vw;
+    height: 1200px;
+  }
+  span.spanloja {
+    margin-left: 250px;
+    font-size: 90px;
+  }
+  div.produtos {
+    height: 1200px;
+  }
+  div.produtoscontent {
+    width: 800px;
+    height: 1100px;
+    margin-right: 130px;
+  }
+  div.produtoscontent1 {
+    width: 800px;
+    height: 1100px;
+    margin-left: 130px;
+  }
+  div.info {
+    width: 700px;
+    height: 550px;
+    background-size: 700px;
+  }
+  span.info {
+    margin-top: 30px;
+    font-size: 35px;
+  }
+  p {
+    font-size: 25px;
+  }
+  button.software {
+    margin-top: 10px;
+    width: 370px;
+    height: 80px;
+    border-radius: 5px;
+    font-size: 25px;
+  }
+  
+  /* GAME SECTION */
+  div.gamedisplay {
+    height: 400px;
+    margin-top: 300px;
+    background-size: 1200px;
+  }
+  div.gamedisplayimg {
+    width: 350px;
+    height: 350px;
+    margin-top: -160px;
+    background-size: 250px;
+  }
+  div.gamedisplayimg:hover {
+    background-size: 300px;
+  }
+
+  div.cardcontent {
+    margin: 0;
+  }
+
+
+  /* GAME CARDS */
+  div.gamescard {
+    height: 450px;
+  }
+  div.card0{
+    width: 850px;
+    height: 450px;
+  }
+  div.card1{
+    width: 850px;
+    height: 450px;
+  }
+  div.card2{
+    width: 850px;
+    height: 450px;
+  }
+  div.cardcontent {
+    width: 470px;
+    height: 390px;
+    background-size: 450px;
+  }
+  div.cardcontent1 {
+    width: 470px;
+    height: 390px;
+    background-size: 450px;
+  }
+  div.cardcontent2 {
+    width: 470px;
+    height: 390px;
+    background-size: 450px;
+  }
+  span.spancard {
+    font-size: 40px;
+  }
+
+  /* OTHER CARDS */
+  div.otherscards {
+    width: 100vw;
+    height: 300px;
+  }
+  div.othersinfo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+  }
+  button.otherscontent {
+    width: 230px;
+    height: 210px;
+    background-size: 180px;
+  }
+  
+  span.spanothers {
+    margin-top: 10px;
+    font-size: 40px;
+  }
+
+  /* SOFTWARE & HARDWARE */
+  div.softhard {
+    height: 1200px;
+    margin-top: 30px;
+  }
+  div.softhardbg {
+    width: 100vw;
+    height: 400px;
+    margin-bottom: 40px;
+    background-size: 380px;
+  }
+  span.spansofthard {
+    margin-left: 250px;
+    font-size: 90px;
+  }
+  span.softhardspan {
+    margin-left: 350px;
+    font-size: 80px;
+    color: whitesmoke;
+  }
+  p.softhardinfo {
+    margin-left: 350px;
+    margin-bottom: 60px;
+    font-size: 28px;
+  }
+  p.softhardinfobottom {
+    margin-left: 350px;
+    font-size: 30px;
+  }
+
+  /* PARTNERS */
+  section.divclients {
+    height: 850px;
+  }
+  div.bgclients {
+    height: 400px;
+    background-size: 350px;
+    background-position-x: 1950px;
+    background-position-y: 80px;
+  }
+  span.clientsspan {
+    margin-left: 250px;
+    font-size: 90px;
+  }
+  div.clientsdisplay {
+    height: 450px;
+  }
+  div.partner{
+    width: 850px;
+    height: 450px;
+  }
+  div.partner1{
+    width: 850px;
+    height: 450px;
+  }
+  div.partner2{
+    width: 850px;
+    height: 450px;
+  }
+  div.partnerinfo {
+    width: 600px;
+    height: 450px;
+    background-size: 500px;
+
+  }
+
+  /* OUR TEAM */
+  div.divteam {
+    height: 2900px;
+  }  
+  div.teambg {
+    width: 100vw;
+    height: 400px;
+    background-size: 450px;
+    background-position-x: 1870px;
+    background-position-y: 120px;
+  }
+  span.teamspan {
+    margin-left: 250px;
+    font-size: 90px;
+  }
+
+  div.divpeople {
+    height: 2500px;
+  }
+  div.divpeoplerow0{
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  div.divpeoplerow1{
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  div.divpeoplerow2{
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+  div.divpeoplerow3{
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  /* PEOPLE CARDS */
+span.username {
+  margin: 30px;
+  font-size: 50px;
+}
+span.userfunction{
+  margin: 10px;
+  font-size: 40px;
+}
+
+  /* PEOPLE DISPLAY */
+  button.display0 {
+    width: 520px;
+    height: 550px;
+    margin: 25px;
+  }
+
+  div.picture {
+    width: 250px;
+    height: 250px;
+    background-size: 200px;
+    background-position-x: 25px;
+  }
+  div.picture11 {
+    width: 250px;
+    height: 250px;
+    background-size: 240px;
+    background-position-y: 90px;
+  }
+
+  /* CONTACT */
+  section.divcontact {
+    height: 1000px;
+  }
+  div.contactbg {
+    height: 400px;
+    background-size: 350px;
+    background-position-x: 1950px;
+    background-position-y: 30px;
+  }
+  span.contactspan {
+    margin-left: 250px;
+    font-size: 90px;
+  }
+  div.contactcontent {
+    height: 550px;
+    margin-top: 30px;
+  }
+  div.github {
+    width: 2100px;
+    height: 450px;
+  }
+
+  div.divsocialcontact {
+    width: 450px;
+  }
+
+  button.gitcontact {
+    width: 120px;
+    height: 120px;
+    background-size: 110px;
+  }
+  button.linkedincontact {
+    width: 120px;
+    height: 120px;
+    background-size: 80px;
+  }
+  button.facecontact {
+    width: 120px;
+    height: 120px;
+    background-size: 50px;
+  }
+
+  span.spandevcontact {
+    font-size: 45px;
+    font-weight: 500;
+    margin-left: 30px;
+  }
+  span.spandevcontact:hover {
+    margin-left: 60px;
+  }
+
+
+
+  /* PARAGRAPH AJUST 2560PX */
+  
+  div.softhardajuste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2200px;
+    height: 180px;
+  }
+  
+  div.softhardbottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 2200px;
+    height: 210px;
+  }
+}
+
+@media(max-width: 1024px) {
+  /* BUTTONS */
+  button.headerbtn {
+    margin: 0;
+  }
+  button.brregionbtn {
+    margin-left: 0;
+  }
+  button.usaregionbtn {
+    margin-left: 0;
+  }
+
+  /* MAIN */
+  section.bgmain0 {
+    background-size: 1000px;
+  }
+
+  /* ABOUT */
+  div.divspanaboutus {
+    justify-content: center;
+  }
+  span.aboutus {
+    margin-left: 0;
+  }
+  div.aboutusinfo1 {
+    margin-right: 10px;
+  }
+  div.aboutusinfo2 {
+    margin-left: 0;
+  }
+
+  /* STORE */
+  div.bgloja {
+    justify-content: center;
+  }
+  span.spanloja {
+    margin-left: 0;
+  }
+
+  /* SOFTWARE AND HARDWARE */
+  div.softhard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  div.softhardbg {
+    justify-content: center;
+  }
+  span.spansofthard {
+    margin-left: 0;
+  }
+  div.softhardajuste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    padding: 0;
+  }
+  div.softhardbottom {
+    width: 100vw;
+  }
+  span.softhardspan {
+    margin-left: 0;
+    margin-top: 40px;
+  } 
+  p.softhardinfo {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  p.softhardinfobottom {
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+  }
+
+  /* PARTNERSHIPS */
+  div.bgclients {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  span.clientsspan {
+    margin-left: 0;
+  }
+
+  /* OUR TEAM */
+  div.teambg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  span.teamspan {
+    margin-left: 0;
+  }
+
+  /* DEVELOPMENT */
+  div.contactbg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  span.contactspan {
+    margin-left: 0;
+  }
+  div.github {
+    align-items: center;
+  }
+  div.divsocialcontact {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
